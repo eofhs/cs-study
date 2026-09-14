@@ -9,12 +9,13 @@
 - [Wireshark HTTP 패킷 및 MAC 주소 분석](./Network/wireshark-http.md)
 ## 🔒 Security
 <details>
-<summary> pnp (클릭해서 펼치기)</summary>
+<summary> pnp </summary>
 
 * [AI_security](./AI_security)
 
 </details>
 - 화이트햇스쿨 준비
+
 ## ⚙️ Backend
 <details>
 <summary>학교 커리큘럼</summary>
