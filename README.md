@@ -18,9 +18,9 @@
 
 ## ⚙️ Backend
 <details>
-<summary>학교 커리큘럼 (클릭해서 펼치기)</summary>
+<summary>학교 커리큘럼</summary>
 
-* [학교커리큘럼 폴더 바로가기](./학교커리큘럼)
+* [algorithm]
 
 </details>
 
