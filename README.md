@@ -8,7 +8,12 @@
 - 네트워크 관리사 2급
 - [Wireshark HTTP 패킷 및 MAC 주소 분석](./Network/wireshark-http.md)
 ## 🔒 Security
-- [학회 스터디 활동](./pnp)
+- <details>
+<summary><b>학회 스터디 활동</b></summary>
+
+* [📁 pnp 폴더 바로가기](./pnp)
+* [AI Security 문서 보기](./pnp)
+</details>
 - 화이트햇 스쿨 준비
 
 ## ⚙️ Backend
