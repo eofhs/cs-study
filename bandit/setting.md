@@ -1,4 +1,4 @@
-리눅스 공부를 시작한지 어언 2달째 아무것도 기억나지 않는다.
+<img width="458" height="119" alt="image" src="https://github.com/user-attachments/assets/51127756-c6a4-4123-8216-e8928868ac36" />리눅스 공부를 시작한지 어언 2달째 아무것도 기억나지 않는다.
 매일 리눅스 공부했다가 네트워크 공부했다가 전공 공부하니까 남는건 없고 일만 벌어진다.
 그래서 오늘부터 진득하게 리눅스 워게임을 진행하겠다.
 https://overthewire.org/wargames/bandit/bandit0.html 이 사이트를 통해 하겠다.
@@ -20,6 +20,8 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220에서
 ssh는 원격접속 기능을 하는 보안 프로토콜이다.
 이문장을 한국어로 표현하면 원격접속을 bandit0이라는 아이디로 bandit.labs.overthewire.org 이 서버에 들어간다. 라는 뜻이다.
 -p 2220은 기본 포트(22)대신 서버가 열어둔 2220으로 들어가겠다는 뜻이다.
+
+그래서 정리해보자면 위의 화면은 OverTheWire에서 원격 연결이 잘되었다고 알리는 환영인사 메세지 같은것이다.
 
 우리가 윈도우 프롬프트에 입력을 하면 그게 OverTheWire에서 운영하는 리눅스 서버로 가고 OverTheWire에서 출력을 우리쪽으로 보내주는
 식으로 리눅스가 없어도 리눅스를 사용하는 것 처럼 할 수 있다.
